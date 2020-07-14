@@ -1,0 +1,4 @@
+stramlit 
+cv2
+PIL
+gunicorn
