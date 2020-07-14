@@ -1,4 +1,5 @@
 streamlit 
+streamlit opencv-python
 opencv-python
 Pillow
 gunicorn==19.9.0
