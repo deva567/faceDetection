@@ -1,4 +1,5 @@
 streamlit 
 opencv-python
 Pillow
-
+gunicorn==19.9.0
+Werkzeug==0.15.5
