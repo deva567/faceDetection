@@ -1,4 +1,4 @@
-streamlit==0.61.0
+streamlit==0.62.0
 opencv-python
 Pillow
 
